@@ -1,2 +1,4 @@
 # portfolioUsingStreamlit
 A small project using Streamlit. This is my first time using it. So, first timers can go through the commented code to understand how things work.
+I used to develop web pages using HTML, CSS and JavaScript. Going forward with React JS. Keeping that aside. Python is also said to be a scripting language. So, ever wondered how to integrate HTML and Python instead of Javascript? Well, this can be achieved through a Python library "eel". There is another library that actually doesn't need any HTML or CSS but just Python. Excited?
+That is the Streamlit library. You just need to code it in python and it will do the HTML, and CSS for you in the background. I just got to know this a few days ago and wanted to share this with you. So, Out of excitement just built this small page on it.
